@@ -4,7 +4,7 @@ pages:
 - Decompiling: et_decompiling.md
 theme: readthedocs
 repo_url: https://github.com/Dominator56/mapping-tutorials
-site_description: This is a website containing some various mapping tutorials.
+site_description: This is a documentation containing some various mapping tutorials for Wolf:ET and Source.
 site_author: Dominator56
 remote_branch: master
 remote_name: master
