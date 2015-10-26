@@ -1,0 +1,5 @@
+site_name: Dominator56's Mapping Tutorials
+pages:
+- Home: index.md
+- Decompiling: et_decompiling.md
+theme: readthedocs
