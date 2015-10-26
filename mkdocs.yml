@@ -3,3 +3,8 @@ pages:
 - Home: index.md
 - Decompiling: et_decompiling.md
 theme: readthedocs
+repo_url: https://github.com/Dominator56/mapping-tutorials
+site_description: This is a website containing some various mapping tutorials.
+site_author: Dominator56
+remote_branch: master
+remote_name: master
