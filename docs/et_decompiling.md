@@ -8,7 +8,7 @@ You will need to have Radiant installed, but I'm pretty sure you already have it
 
 ## Making a batch file
 
-Create a new .bat file in your GtkRadiant directory, and copy the following code into it :
+Create a new .bat file in your Radiant directory, and copy the following code into it :
 
 ```batch
 echo off
@@ -25,7 +25,7 @@ Go into your Wolf:ET folder and look for the map you want in the etmain director
 
 ## Decompiling the map
 
-Drag the .bsp file on the batch file you create earlier, wait some secs, and a new file called mapname_d.map will be created.
+Drag the .bsp file on the batch file you created earlier, wait some secs, and a new file called mapname_d.map will be created.
 Now you can open the map in Radiant and do whatever you want with it.
 
 ## Notes
